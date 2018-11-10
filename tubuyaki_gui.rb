@@ -1,6 +1,6 @@
 require "formula"
 
-class Tubuyaki_gui < Formula
+class TubuyakiGui < Formula
   
   homepage "https://github.com/takkii/tubuyaki_gui"
   url "https://github.com/takkii/tubuyaki_gui/archive/1.0.0.tar.gz"
